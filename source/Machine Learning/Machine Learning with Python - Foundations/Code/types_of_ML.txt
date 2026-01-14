@@ -1,0 +1,30 @@
+Supervised learning:
+    As Images recognition
+    Spam filtering
+    Text prediction
+
+Unsupervised Learning:
+    Movie recomendation systems
+    Perform curomer segmentation for marketing purposes
+
+Reinforcement learning:
+    Computer game engines
+    Robotic
+    Self-driving cars
+
+Steps in Machine Learning process
+
+    Data collection:
+        Identigy and gather the data we intend to use for machine learning:
+            Accuracy, Relevance, Quantity, Variability, Ethics
+
+    Data exploration:
+        Process of describing, visualizing, analyzing data; in order to undestand it.
+        
+    Data prepration:
+
+    Modeling:
+
+    Evaluation:
+    
+    Actionable Insigth:

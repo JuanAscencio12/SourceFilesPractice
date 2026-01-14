@@ -1,0 +1,1 @@
+print(f'name in __init__.py module name is {__name__}')
