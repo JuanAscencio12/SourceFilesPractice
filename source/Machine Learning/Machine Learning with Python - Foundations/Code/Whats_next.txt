@@ -1,0 +1,7 @@
+- Machine Learning with Python:
+    Decision Trees
+    Logistic Regressin
+    k-Means Clustering
+    Assosciation Rules
+
+- Data Ethics: Watching Out for Data Misuse
