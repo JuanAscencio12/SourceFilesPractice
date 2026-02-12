@@ -4,8 +4,8 @@ Supervised learning:
     Text prediction
 
 Unsupervised Learning:
-    Movie recomendation systems
-    Perform curomer segmentation for marketing purposes
+    Movie recommendation systems
+    Perform customer segmentation for marketing purposes
 
 Reinforcement learning:
     Computer game engines
@@ -15,13 +15,13 @@ Reinforcement learning:
 Steps in Machine Learning process
 
     Data collection:
-        Identigy and gather the data we intend to use for machine learning:
+        Identify and gather the data we intend to use for machine learning:
             Accuracy, Relevance, Quantity, Variability, Ethics
 
     Data exploration:
-        Process of describing, visualizing, analyzing data; in order to undestand it.
+        Process of describing, visualizing, analyzing data; in order to understand it.
         
-    Data prepration:
+    Data preparation:
 
     Modeling:
 
